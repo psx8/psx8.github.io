@@ -1,0 +1,24 @@
+CACHE MANIFEST
+# v1.0 - PS4 5.05 FW GoldHEN Host
+
+# Core Files
+index.html
+exploit.js
+
+# GoldHEN Payloads
+goldhen.bin
+goldhen5.bin
+
+# Utility Payloads
+Kernel-Clock.bin
+app2usb.bin
+appcache-install.bin
+backup.bin
+disable-updates.bin
+enable-updates.bin
+ftp.bin
+history-blocker.bin
+ps4debug.bin
+pup-decrypt.bin
+restore.bin
+rif-renamer.bin
